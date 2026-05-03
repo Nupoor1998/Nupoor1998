@@ -1,41 +1,67 @@
-## Hi there 👋
+# Hi, I'm Nupoor Korde 👋
 
-Hi, I’m Nupoor - a Software Engineer with 3+ years of experience building web applications and solving product-focused engineering problems.
+**Senior Software Engineer** | Full Stack · Java/Spring Boot · React · AI/LangChain
 
-💡 My journey has evolved across software development, frontend engineering, and full stack application development, and I now focus on building **performant, scalable, and user-centered web applications**.
-
----
-
-🛠 **What I do:**
-
-- **Build:** Frontend and Full Stack web applications with React, Next.js, TypeScript, Node.js, and SQL
-- **Improve:** UI performance, reusable component architecture, API integration, and data-heavy workflows
-- **Work with:** React, Next.js, TypeScript, JavaScript, Node.js, Express.js, Python, PostgreSQL, MongoDB, Redis, AWS
+Based in the United States · Open to opportunities
 
 ---
 
-🚀 **Currently focused on:**
+## What I do
 
-- Frontend and Full Stack engineering
-- Performance optimization and reusable UI architecture
-- System design and scalable application development
-- Building reliable, production-ready web experiences
-
----
-
-📌 **Featured work:**
-
-- **Collaborative Document Editor:** Real-time collaborative editing with React, Next.js, Quill, and Firebase
-- **Fresh Harvest:** API-driven e-commerce application with React, Node.js, MongoDB, and payment integration
-- **Portfolio Website:** Personal site showcasing my projects, skills, and experience
+- **Build** production-grade full stack systems with React, Next.js, TypeScript, Java/Spring Boot, and Node.js
+- **Ship** HIPAA-compliant healthcare platforms with microservices, event-driven architecture, and secure PHI handling
+- **Develop** AI-native products using LangChain, RAG pipelines, FAISS, and LLM APIs
+- **Deploy** on AWS with Docker, Kubernetes, and Jenkins CI/CD
 
 ---
 
-✅ **What makes me different?**
+## Tech Stack
 
-I enjoy working across both the **user-facing** and **engineering** sides of an application, from building responsive interfaces and reusable UI systems to improving backend-supported workflows and performance. I care about writing software that is **usable, maintainable, and scalable**.
+**Languages:** Java · TypeScript · JavaScript · Python · SQL
+
+**Frontend:** React.js · Next.js · Redux Toolkit · React Query · GraphQL · WebSockets
+
+**Backend:** Spring Boot · Node.js · Express.js · REST APIs · Microservices
+
+**Databases & Messaging:** PostgreSQL · MongoDB · Redis · Kafka · FAISS
+
+**Cloud & DevOps:** AWS (EC2, S3, Lambda, CloudFormation) · Docker · Kubernetes · Jenkins · Firebase · Heroku
+
+**AI & Tools:** LangChain · RAG Pipelines · LLM APIs · GitHub Copilot · Cursor · Streamlit
 
 ---
 
-📍 Based in the United States | Open to Collaboration | Always learning
+## Featured Projects
 
+**[NutriSage](https://github.com/Nupoor1998/NutriSage)** · Python · LangChain · FAISS · Streamlit
+RAG-based nutrition assistant — ingestion, chunking, embedding, and retrieval across 7+ nutrition sources with source-grounded dietary guidance
+
+**[Collaborative Document Editor](https://github.com/Nupoor1998/Collaborative-Document-Editor)** · React · Next.js · TypeScript · Firebase · WebSockets
+Real-time multi-user document editor with WebSocket sync, Firebase Auth, and controlled sharing via unique access links
+
+**[Fresh Harvest](https://github.com/Nupoor1998/Fresh-Harvest)** · React · TypeScript · Node.js · Express · MongoDB
+Full-stack e-commerce platform with role-based flows, OTP auth, PayPal checkout — deployed on Heroku with 40% faster page loads
+
+---
+
+## Experience
+
+**Senior Software Engineer** — KGS Technology, WA *(Jul 2025 – Present)*
+
+**Software Engineer** — Rebecca Everlene Trust Company, Chicago, IL *(Sep 2024 – Jul 2025)*
+
+**Software Engineering Intern** — SDI Presence, Chicago, IL *(Feb 2023 – Aug 2023)*
+
+**Software Engineer** — Accenture Solutions, Pune, India *(Feb 2021 – Aug 2022)*
+
+---
+
+## Education
+
+**M.S. Information Systems** — Northeastern University *(May 2024)*
+
+**B.E. Electronics & Telecommunication** — Pune University *(Apr 2020)*
+
+---
+
+📫 nupoor0603@gmail.com · [LinkedIn](https://linkedin.com/in/nupoor-korde) · [Portfolio](https://nupoor1998.github.io/nupoor_portfolio)
